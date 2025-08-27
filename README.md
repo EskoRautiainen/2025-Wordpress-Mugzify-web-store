@@ -11,6 +11,8 @@ In this project, our team created a website using WordPress. We learned to use P
 <br>
 
 **Checkout:** <img width="1517" height="1213" alt="Screenshot 2025-08-21 213802" src="https://github.com/user-attachments/assets/393a45a5-c18d-49d4-9ed8-4e1027a52be2" />
+<br>
 
+**Reviews:** <img width="1220" height="1240" alt="Screenshot 2025-08-27 173737" src="https://github.com/user-attachments/assets/ee5e8762-24d1-42db-a73f-285e048f9854" />
 <br>
 
