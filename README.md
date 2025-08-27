@@ -1,3 +1,5 @@
+In this project, our team created a website using WordPress. We learned to use Page Builders, Full Site Editing (FSE), themes, templates, and add-ons. WordPress enables users to quickly launch fairly sophisticated websites, though it offers limited customizability compared to fully custom-built solutions.
+
 **🔍 See it on Youtube:** https://youtu.be/0_3fTkFJ0AI
 <br><br>
 
